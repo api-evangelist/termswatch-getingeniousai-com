@@ -86,6 +86,12 @@ Which operations an agent can call, which act, and which need a human in the loo
 
 - [TermsWatch (Ingenious AI) Agentic Access](https://apis.io/agentic-access/termswatch-getingeniousai-com/termswatch-getingeniousai-com-agentic-access/)
 
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [TermsWatch (Ingenious AI) Openapi Overlay](https://apis.io/overlays/termswatch-getingeniousai-com/termswatch-getingeniousai-com-openapi-overlay/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -120,18 +126,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 37.2** — thin · rubric 0.27.0 · scored 2026-11-17
+**Kin Score 36.6** — thin · rubric 0.28.0 · scored 2026-11-27
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 76.8 |
 | Contract quality | 0.0 |
 | Contract governance | 65.5 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 23.8 |
-| Access clarity | 73.2 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 59.1 |
 
-**Agent readiness 12.8** — agent-aware
+**Agent readiness 16.1** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -145,7 +151,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
